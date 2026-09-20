@@ -72,6 +72,4 @@ Windows host running Docker Desktop (WSL2) hosts both the WAF and target applica
 /configs       — sanitized SafeLine rule exports, docker-compose reference
 ```
 
-## Full Write-Up
 
-A detailed technical report (setup, troubleshooting, full test log) is available [here](#) *(link to blog post / full report if published)*.
